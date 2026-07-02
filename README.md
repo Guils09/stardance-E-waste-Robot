@@ -1,5 +1,9 @@
 # STARDANCE — An E-Waste Robot Sculpture
 
+## Demo 
+
+<video src="https://github.com/Guils09/stardance-E-waste-Robot/raw/main/demo.mp4" controls width="600"></video>
+
 ## What I Learned
 This was my first time turning old, dead electronics into something functional and expressive instead of just scrap. The biggest lessons: how much can genuinely be salvaged from devices most people would toss straight in the bin, how satisfying it is to repair a component (like the JBL speaker) rather than replace it, and how much planning goes into wiring something safely when you're mixing low-voltage LEDs with 230V AC in the same build. It also pushed my soldering, basic circuit-testing, and cable management skills a lot further than I expected going in. Most important takeaway: e-waste isn't waste — it's raw material.
 
